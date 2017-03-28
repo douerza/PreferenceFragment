@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PreferenceFragment</string>
+    <string name="header_title">程序设置选项</string>
+    <string name="header_summary">设置应用的相关选项</string>
+    <string name="title1">In-line preferences</string>
+    <string name="title2">Dialog-based preferences</string>
+    <string name="title3">Launch preferences</string>
+    <string name="title4">Preference attributes</string>
+</resources>
